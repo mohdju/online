@@ -1,0 +1,5 @@
+pandas
+streanlit
+matplotlib
+scikit-learn
+streanlit_option_menu
