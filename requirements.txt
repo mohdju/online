@@ -1,5 +1,5 @@
 pandas
-streanlit
+streamlit
 matplotlib
 scikit-learn
-streanlit_option_menu
+streamlit_option_menu
